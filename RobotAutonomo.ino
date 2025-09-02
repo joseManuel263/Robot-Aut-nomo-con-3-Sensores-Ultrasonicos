@@ -9,7 +9,7 @@
 #define OBSTACLE_DIST 20
 
 // --- Velocidades individuales ---
-const int SPEED_LEFT = 120;
+const int SPEED_LEFT = 130;
 const int SPEED_RIGHT = 128;
 
 // Pines motores
